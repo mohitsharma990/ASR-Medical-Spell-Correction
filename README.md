@@ -46,23 +46,4 @@ The hybrid approach demonstrated significant improvements over traditional basel
 
 ---
 
-## 📁 Repository Structure
-├── 0_ASR_Baseline.ipynb         # Initial data exploration & dictionary-based baseline
-├── 1_ASR_T5_Fine_Tuning.ipynb   # Fine-tuning T5 for text correction
-├── 2_ASR_BERT_Pre_trained.ipynb # Contextual correction using PubMedBERT
-├── 3_ASR_Hybrid.ipynb           # Final hybrid pipeline (T5 + BERT + Dictionary)
-├── Report.pdf                   # Detailed methodology, challenges, and results
-├── requirements.txt             # Python dependencies
 
----
-
-## ⚙️ Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/asr-medical-noun-enhancement.git
-   cd asr-medical-noun-enhancement
-	
- 2.	Install dependencies
-
-    pip install -r requirements.txt
