@@ -1,0 +1,14 @@
+﻿pandas
+numpy
+torch
+transformers==4.44.2
+scikit-learn==1.2.2
+spacy==3.5.0
+thinc==8.1.10
+nltk==3.8.1
+
+
+
+
+For the specialized medical NER model
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.1/en_ner_bc5cdr_md-0.5.1.tar.gz
